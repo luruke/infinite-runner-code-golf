@@ -1,6 +1,6 @@
 # Infinite Runner Code Golf
 As little experiment I created an infinite runner game, trying to use less characters as possible.  
-The result is a little game running in the browser, in just **510** character.  
+The result is a little game running in the browser, in just **510** characters.  
 
 [Demo](http://luruke.github.io/infinite-runner-code-golf/)
 
